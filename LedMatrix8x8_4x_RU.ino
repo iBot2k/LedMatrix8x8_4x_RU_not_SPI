@@ -12,7 +12,7 @@ unsigned long bufferLong [14] = {0};
 LedControl lc=LedControl(12,11,10,numDevices);
  
  
-const unsigned char scrollText[] PROGMEM ={"YFT,FK ))))  "};
+const unsigned char scrollText[] PROGMEM ={"your text"};
  
  
 void setup(){
